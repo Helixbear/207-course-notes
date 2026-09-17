@@ -13,7 +13,6 @@ public class FirstLetters {
         // Should print ILOVEUT once firstLetters is implemented.
         System.out.println("First letters of \"" + phrase + "\": " + firstLetters(phrase));
     }
-
     /**
      * Given a string of words separated by single spaces, returns a new string
      * made of the first character of each word, in order. You may assume the
